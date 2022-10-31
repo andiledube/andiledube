@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andiledube
-- 👀 I’m interested in learning moblie development(Flutter), UX/UI(adobe xd)
+- 👀 I’m interested in learning moblie development(Flutter), UX/UI(Adobe XD/Figma)
 - 🌱 I’m currently learning flutter and Graphic Design 
 - 📫 How to reach me Linkedin(andile dube)
 
